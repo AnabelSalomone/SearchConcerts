@@ -23,7 +23,7 @@ import {Store} from '@/Store.js'
 
 
 export default {
-	name: 'myForm',
+	name: 'navbar',
 	data(){
     return {
 			datas: Store.datas,
